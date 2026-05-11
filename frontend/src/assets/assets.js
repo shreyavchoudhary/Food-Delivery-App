@@ -389,4 +389,4 @@ export const food_list =[
     ]
 
 
-export const url = 'http://localhost:4000'
+export const url = 'https://food-del-backend-7x85.onrender.com'
